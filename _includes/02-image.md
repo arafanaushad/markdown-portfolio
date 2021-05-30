@@ -1,1 +1,1 @@
-<image src="https://www.google.com/search?q=portfolio+covers&tbm=isch&hl=en&chips=q:portfolio+covers,g_1:minimalist:llaN0XjY1tY%3D,g_1:simple&client=firefox-b-d&sa=X&ved=2ahUKEwjzx7e35vHwAhXw03MBHdOZCcoQ4lYoAHoECAEQGg&biw=1519&bih=722#imgrc=aMdCJ_TEXyiADM" alt=background>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
