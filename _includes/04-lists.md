@@ -1,4 +1,4 @@
--Interests
-  -Web Developmet
-  -Design
-  -Marketing
+- Interests
+  - Web Developmet
+  - Design
+  - Marketing
