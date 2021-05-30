@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+#### LinkedIn : https://www.linkedin.com/in/arafa-naushad-1261a41b4
+#### GitHub : https://github.com/arafanaushad
